@@ -1,1 +1,1 @@
-![](Data/Accelerometer_Soldered.jpeg)
+![](Data/Accelerometer_Soldered.jpg)
